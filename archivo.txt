@@ -9,3 +9,8 @@ Con ramab:
 6. huracn
 7. Estudiantes
 8. Velez
+
+con ramac:
+9. Rosario Central
+10. Argentinos Juniors
+11. Lanus
