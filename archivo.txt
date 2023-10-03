@@ -14,3 +14,8 @@ con ramac:
 9. Rosario Central
 10. Argentinos Juniors
 11. Lanus
+
+con ramad: 
+12. Banfield     
+13. Platense
+14. Arsenal
